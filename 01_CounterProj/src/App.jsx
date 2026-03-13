@@ -1,12 +1,13 @@
 
 import './App.css'
+import CounterTimer from './components/CounterTimer'
 
 function App() {
   
 
   return (
     <>
-      <h1>Hello learning project</h1>
+      <CounterTimer/>
     </>
   )
 }
